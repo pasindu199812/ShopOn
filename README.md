@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## ShopOnWebsite
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b6284fd-5c8c-4463-af90-e776cd3901b3/deploy-status)](https://app.netlify.com/sites/shoponlk/deploys)
 
 ### Link
- https://shopon.netlify.app/
+ https://shoponlk.netlify.app/
  
  ### Website Preview
  
